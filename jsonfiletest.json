@@ -11,7 +11,11 @@
         {"name":"Gervais","group":2},
         {"name":"Tholomyes","group":3},
         {"name":"Listolier","group":3},
-        {"name":"Fameuil","group":3}
+        {"name":"Fameuil","group":3},
+        {"name": "Fauchelevent","group": 0},
+        {"name": "Fauchelevent","group": 0},
+        {"name": "Cosette","group": 5},
+        {"name": "Javert","group": 4},
     ],
 
     "links":
